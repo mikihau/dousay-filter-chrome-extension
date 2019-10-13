@@ -2,12 +2,12 @@
 This extension hides unwanted Douban Guangbo (Dousay) from a [Douban](https://www.douban.com/) user's timeline.
 
 ## Installing
-_Extension now being reviewed -- will update url when it's made public._
+On [Chrome Web Store](https://chrome.google.com/webstore/detail/%E8%B1%86%E7%93%A3%E5%B9%BF%E6%92%AD%E8%BF%87%E6%BB%A4%E5%99%A8-douban-dousay-fil/mmlilcjbhccgadmbfojmjlgaegkpklnk).
 
 ## How It Works
 The extension hides Dousays by keyword matches. You can enter your keywords in the popup menu, at one word per line:
-<img src="./popup-demo.png" alt="demo of the popup">
 
+<img src="./popup-demo.png" alt="demo of the popup">
 Click on the "save" button, and you should be good to go.
 
 ## Known Issues
